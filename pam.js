@@ -52,7 +52,7 @@ let basket = [
     },
      { vegetable: "ewedu",
         water:"mr V"
-      }];
+      }];   
 console.log(basket.length);   
 
 const namet ="enoch"
